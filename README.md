@@ -1,1 +1,1 @@
-# Trabajo_algoritmos_optimizaci-n
+# Trabajo_algoritmos_optimización
